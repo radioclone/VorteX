@@ -2,6 +2,6 @@
 window.addEventListener('message', (e) => {
   if (e.data.name === 'RollDice') {
     // Replace with actual dice trigger
-    console.log('Spline requested dice roll');
+    console.log('Interactive Interface Module requested dice roll');
   }
 });
