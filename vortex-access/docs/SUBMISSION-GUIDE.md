@@ -1,3 +1,4 @@
+I dont <<<<<<< HEAD
 # VorteX Hackathon Submission Guide
 
 This document provides guidance on how to effectively present the VorteX project as a Soneium Hackathon submission, with a focus on highlighting the project's strengths while being transparent about its work-in-progress status.
@@ -173,3 +174,5 @@ A: "We've anticipated this challenge in our technical planning. Our approach inv
 The VorteX submission should emphasize the project's strong conceptual foundation, well-planned architecture, and clear development path. By being transparent about the current implementation status while highlighting the comprehensive planning and vision, the submission can effectively communicate the project's value and potential despite its work-in-progress nature.
 
 Remember that many successful projects begin as works-in-progress, and judges often value honesty, architectural thinking, and potential as much as completed functionality. The quality of planning, documentation, and vision demonstrated in VorteX provides a strong foundation for an effective hackathon submission.
+=======
+>>>>>>> 5bb63e7c9fc442be8277cb937eba3615149f9b03
