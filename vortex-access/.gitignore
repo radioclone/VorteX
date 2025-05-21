@@ -22,6 +22,7 @@ yarn.lock
 # IDE and editor files
 .idea/
 .vscode/
+.history/
 *.swp
 *.swo
 .DS_Store
