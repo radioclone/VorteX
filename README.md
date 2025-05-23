@@ -110,7 +110,7 @@ This sends a simple on-chain transaction using Startale's Account Abstraction to
 
 1. **User Interface**:
    - Build a frontend for wallet connection and dice rolling.
-   - Integrate ReApp wallet for seamless user authentication.
+   - Integrate ReOwn wallet for seamless user authentication.
 
 2. **Expanded Startale Integration**:
    - Add real RPC connections for token-gated access and advanced mechanics.
